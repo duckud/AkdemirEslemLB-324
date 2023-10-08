@@ -37,6 +37,13 @@ Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übe
 9. Alles überschpringen bis man "Erstellen" auswählen kann
     
 10. Zurück zu https://portal.azure.com/#home gehen und die neu erstellte App auswählen
+    
 11. Bei den Einstellungen auf "Konfiguration" gehen
+    
 12. Eine neue Anwendungeinstellung erstellen
+    
 13. Beim Namen "PASSWORD" und beim Wert den Passwort, den du beim .env File eingegeben hast schreiben
+    
+14. Danach okay clicken und nicht vergessen zu speichern
+    
+15. https://akdemireslemlb324.azurewebsites.net/
